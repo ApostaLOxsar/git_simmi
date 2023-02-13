@@ -18,6 +18,4 @@
 
 test diff
 
-test diff2
-
 test diff3
