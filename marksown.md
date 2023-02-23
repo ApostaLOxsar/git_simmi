@@ -20,3 +20,4 @@
 * git --version - выводит информацию о версии ГИТа
 * git stats - информация об состоянии
 * git checkout conflict - команда для перехода к ветке conflict
+* git log - вывод списка комитов
